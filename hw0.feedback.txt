@@ -1,0 +1,60 @@
+22 points
+
+,
+
+- Good job in creating your accounts!
+
+- Good job in setting up Python in your system.
+
+- Good job with your first GitHub submission!
+
+- Good organization of your repository! :)
+
+- Excellent!
+
+However,
+** Please, if the repo is public, remove your labs; I don't want other students
+   being able to use your code to cheat in the assignments. The submission site
+   will always keep a copy for you anyway.
+
+- The evidence of setting up the java compiler (javac) is missing, which is a
+  really big deal. Please make sure you have that correctly installed and
+  setup. Please come to see me if you need help.
+
+- The repository is not organized as indicated in the handout, i.e., you were
+  asked to organize your work and put your homework assignment in a folder
+  named hw/0/ but you did not follow instructions.
+
+- You were asked to name your .pdf file hw0lastname.pdf where "lastname" is
+  your last name, but you did not follow instructions.
+
+- The link to your GitHub repository was nowhere to be found in your document
+  or screenshots. 
+
+- Please be careful in following instructions in the future.
+
+- Although the assignment is in the specified folder, the repository in general
+  is not properly organized and is confusing.
+
+- Please organize your GitHub repository immediately.
+
+- A little header or cover page with your name, class, assignment, date, etc.
+  is always good to have in any assignment of this type.
+
+- You did not bring the assignment in printed version by the deadline.
+
+- It appears that there are several branches in your repository. Please delete
+  them. Preserve only ONE branch, the -master- branch.
+
+- Please staple all your assignments as necessary.
+
+- You must submit your assignments on time.
+
+- It seems like you deleted homework 0 in your second commit. Why? Please leave
+  all past assignments in your repository! Put the homework back in there in
+  your next commit.
+
+
+Peace,
+
+- Dr. Pablo Rivas
